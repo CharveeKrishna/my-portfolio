@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.fe927caf.css",
+    "main.js": "/my-portfolio/static/js/main.278cd5ab.js",
+    "static/js/787.4b24f717.chunk.js": "/my-portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/Charvee.png": "/my-portfolio/static/media/Charvee.4810bc77117cc9a3bc4a.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.fe927caf.css.map": "/my-portfolio/static/css/main.fe927caf.css.map",
+    "main.278cd5ab.js.map": "/my-portfolio/static/js/main.278cd5ab.js.map",
+    "787.4b24f717.chunk.js.map": "/my-portfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.278cd5ab.js"
+  ]
+}
